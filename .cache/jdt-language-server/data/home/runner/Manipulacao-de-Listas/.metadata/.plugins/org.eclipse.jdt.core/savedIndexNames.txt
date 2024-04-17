@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/runner/Manipulacao-de-Listas/.cache/jdt-language-server/data/home/runner/Manipulacao-de-Listas/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index

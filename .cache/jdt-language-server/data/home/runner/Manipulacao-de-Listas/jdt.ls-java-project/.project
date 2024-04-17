@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ListaManipulator.java</name>
+			<type>1</type>
+			<location>/home/runner/Manipulacao-de-Listas/ListaManipulator.java</location>
+		</link>
+		<link>
+			<name>src/Main.java</name>
+			<type>1</type>
+			<location>/home/runner/Manipulacao-de-Listas/Main.java</location>
+		</link>
+		<link>
+			<name>src/TestRunner.java</name>
+			<type>1</type>
+			<location>//home/runner/Manipulacao-de-Listas/TestRunner.java</location>
+		</link>
+		<link>
+			<name>src/Testes.java</name>
+			<type>1</type>
+			<location>//home/runner/Manipulacao-de-Listas/Testes.java</location>
+		</link>
+		<link>
+			<name>src/Utilitarios.java</name>
+			<type>1</type>
+			<location>//home/runner/Manipulacao-de-Listas/Utilitarios.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
